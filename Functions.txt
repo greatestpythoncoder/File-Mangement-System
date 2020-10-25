@@ -1,0 +1,5 @@
+chgpath = Change the default (os.getcwd) path >> then it will also print the new path
+del_st = Delete files from specific type >> then it will also show the name of the deleted files
+name_files = Name of all the files
+op = Open Program - Can open any porgram that the user selects
+pc_path = Print the current path
